@@ -1,0 +1,48 @@
+h1 {
+    color: red; 
+    text-decoration: underline; 
+   }
+   
+   p {
+     font-size: 18px;
+     width: 400px;
+     text-indent: 50px;
+     text-align: justify;
+     color: blue;
+   }
+   span {
+    color: green;
+    text-decoration:underline;
+   }
+   .blue-box{
+    background-color: aqua;
+   }
+   .red-box{
+    background-color: red;
+   }
+   .yellow-box{
+    background-color: yellow;
+   }
+   body{
+    background-color: #00D1AE;
+   }
+   .menu{
+    background-color: #00D1AE;
+    width: 400px;
+    height: 50px;
+   }
+   .content{
+    width:400px;
+    height: 200px;
+    background-color: red;
+   }
+   .featured{
+    font-weight: bold;
+    color: rgb(40, 17, 59);
+   }
+   *{
+    color: green;
+   }
+   #cover-box{
+    color: navy;
+   }  
