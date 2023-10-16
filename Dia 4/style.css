@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    background-color: coral;
+    height: 5%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.links{
+    justify-content: space-around;
+    display: flex;
+    height: 2%;
+    width: 100%;
+    align-items: center;
+}
+.link1{
+  border-right: solid 2px;
+  justify-content: center;
+
+}
+.seccion{
+    border: solid 2px ;
+}
